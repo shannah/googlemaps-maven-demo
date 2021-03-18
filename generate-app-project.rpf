@@ -1,5 +1,6 @@
 mainName=GoogleMapsDemo
 packageName=com.codename1.demos.googlemaps
+template.type=maven
 
 [dependencies]
 ====
