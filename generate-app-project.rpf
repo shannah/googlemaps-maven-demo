@@ -1,0 +1,12 @@
+mainName=GoogleMapsDemo
+packageName=com.codename1.demos.googlemaps
+
+[dependencies]
+====
+<dependency>
+  <groupId>com.codenameone</groupId>
+  <artifactId>googlemaps-lib</artifactId>
+  <version>1.0.1</version>
+  <type>pom</type>
+</dependency>
+====
